@@ -25,8 +25,7 @@
 	"require": {
 		"php": ">=7.4",
 		"ext-curl": "*",
-		"ext-json": "*",
-		"psr/log": "^1.0||^2.0||^3.0"
+		"ext-json": "*"
 	},
 	"autoload": {
 		"psr-4": {
