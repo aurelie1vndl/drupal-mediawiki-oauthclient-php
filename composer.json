@@ -1,5 +1,5 @@
 {
-	"name": "mediawiki/oauthclient",
+	"name": "aurelie1vndl/drupal-mediawiki-oauthclient",
 	"description": "PHP OAuth client for use with Wikipedia and other MediaWiki-based wikis running the OAuth extension",
 	"license": "GPL-3.0-or-later",
 	"homepage": "https://www.mediawiki.org/wiki/oauthclient-php",
